@@ -8,7 +8,26 @@ body {
     	 color: #000;
 }
 .homePage {
-	background: #222222;
+	background: #/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #8854F8; }
+.My-Color-Theme-2-hex { color: #A05FD9; }
+.My-Color-Theme-3-hex { color: #CC5DF0; }
+.My-Color-Theme-4-hex { color: #D44AD9; }
+.My-Color-Theme-5-hex { color: #F854C1; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(136, 84, 248, 1); }
+.My-Color-Theme-2-rgba { color: rgba(160, 95, 217, 1); }
+.My-Color-Theme-3-rgba { color: rgba(204, 93, 240, 1); }
+.My-Color-Theme-4-rgba { color: rgba(212, 74, 217, 1); }
+.My-Color-Theme-5-rgba { color: rgba(248, 84, 193, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(259, 92, 65, 1); }
+.My-Color-Theme-2-hsla { color: hsla(271, 61, 61, 1); }
+.My-Color-Theme-3-hsla { color: hsla(285, 83, 65, 1); }
+.My-Color-Theme-4-hsla { color: hsla(297, 65, 57, 1); }
+.My-Color-Theme-5-hsla { color: hsla(320, 92, 65, 1); };
 }
 .container {
 	width: 960px;
