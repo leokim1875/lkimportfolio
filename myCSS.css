@@ -11,7 +11,7 @@ body {
 	background: #00203F;
 }
 .container {
-	width: 90%;
+	width: 93%;
 	margin: 0 auto;
 }
 .header {
@@ -50,10 +50,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #00203F;
 }
 a:visited {
-     color: #000;
+     color: #ADEFD1;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
